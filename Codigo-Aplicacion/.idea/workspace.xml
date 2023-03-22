@@ -4,7 +4,213 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d3e55c7-20ae-4aa0-b3ea-205437a177a5" name="Changes" comment="" />
+    <list default="true" id="4d3e55c7-20ae-4aa0-b3ea-205437a177a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/main/kotlin/com/example/productos_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/lib/providers/login_form_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/lib/screens/home_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/lib/screens/login_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/lib/screens/screens.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/lib/ui/input_decorations.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/lib/widgets/auth_background.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/lib/widgets/card_container.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/lib/widgets/widgets.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/main/kotlin/com/example/todolist/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/linux/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/linux/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/linux/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/todolist/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KB-ROUND/web/manifest.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,5 +264,16 @@
       <updated>1677696424566</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

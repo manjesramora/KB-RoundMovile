@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946881662876",
+    "project_id": "kb-round-cedeb",
+    "storage_bucket": "kb-round-cedeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946881662876:android:49a67282b760c1ea9a4259",
+        "android_client_info": {
+          "package_name": "com.example.kb_round"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946881662876-4390n5ffsepmoalu59971c2laf7p9pcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeo4z-urR6_MSlnYPMxT02IoKv_YW4BgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946881662876-4390n5ffsepmoalu59971c2laf7p9pcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
